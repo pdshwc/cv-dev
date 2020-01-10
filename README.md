@@ -65,7 +65,7 @@ Vue.use(cvui)
 
 ## 贡献
 
-如果你在使用 `CV-UI` 时遇到问题，或者有好的建议，欢迎给我们提 [Issue](https://github.com/cv-ui/cv-ui/issues) 或 [Pull Request](https://github.com/cv-ui/cv-ui/pulls)
+如果你在使用 `CV-UI` 时遇到问题，或者有好的建议，欢迎给我们提 [Issue](https://github.com/pdshwc/cv-ui/issues) 或 [Pull Request](https://github.com/pdshwc/cv-ui/pulls)
 
 
 ## Pull requests 规范
