@@ -15,7 +15,7 @@
 # CV UI
 
 `CV-UI` 是一款基于 `Vue.js 2.0` 的前端 UI 组件库，主要用于快速开发 PC 网站中后台产品
-[演示地址](https://pdshwc.github.io/CV-UI)
+[演示地址](https://pdshwc.github.io/cv-ui)
 
 <p align="center">
   <a href="https://github.com/feross/standard">
@@ -65,7 +65,7 @@ Vue.use(cvui)
 
 ## 贡献
 
-如果你在使用 `CV-UI` 时遇到问题，或者有好的建议，欢迎给我们提 [Issue](https://github.com/CV-UI/CV-UI/issues) 或 [Pull Request](https://github.com/CV-UI/CV-UI/pulls)
+如果你在使用 `CV-UI` 时遇到问题，或者有好的建议，欢迎给我们提 [Issue](https://github.com/cv-ui/cv-ui/issues) 或 [Pull Request](https://github.com/cv-ui/cv-ui/pulls)
 
 
 ## Pull requests 规范
